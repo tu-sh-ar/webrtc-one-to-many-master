@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2bb088a1-e3c5-43f5-8a2c-70a289f267a4/resourceGroups/videoserver-dev_group/providers/Microsoft.Web/sites/videoserver-dev",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
